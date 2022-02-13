@@ -4,6 +4,7 @@
  * minimus - Finds the least value in array at a given point
  * @pointer: pointer to array
  * @counter: size not walked of the array
+ * Return: pointer to min. Value
  */
 
 static int *minimus(int *pointer, int counter)
