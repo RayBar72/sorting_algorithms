@@ -3,7 +3,7 @@
 /**
  * knuth - gets largest Knuth seq
  * @size: size of array
- * Retur: the gap
+ * Return: the gap
  */
 static size_t knuth(size_t size)
 {
